@@ -1,0 +1,24 @@
+nav li{
+    display: inline;
+    margin: 20px
+}
+nav ul{
+    background-color: black;
+}
+nav{
+    display: block;
+    color:white;
+    width: 100%;
+}
+nav ul{
+    padding: 2%;
+}
+footer{width: 100%;background-color: black;}
+footer li {
+    display:inline;
+    padding: 50px;
+    color: white;
+}
+footer{
+    padding: 50px;
+}
